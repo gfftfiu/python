@@ -1,4 +1,4 @@
-from time import *
+from time import sleep
 print("Welcome to OS4")
 # Python3 code to demonstrate
 # attributes of now()
